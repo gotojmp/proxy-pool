@@ -1,0 +1,20 @@
+{
+  "name": "proxy-pool",
+  "version": "1.0.0",
+  "description": "proxy pool, a manager for proxy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gotojmp",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^0.6",
+    "request": "^2.75.0",
+    "redis": "^2.6.2",
+    "mongodb": "^2.2",
+    "node-webcrawler": "https://github.com/gotojmp/node-webcrawler.git"
+  },
+  "devDependencies": {
+  }
+}
